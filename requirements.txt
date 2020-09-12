@@ -1,1 +1,9 @@
 fastai
+nbdev
+ipywidgets
+pandas
+matplotlib
+graphviz
+sklearn
+scipy
+voila
