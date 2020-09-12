@@ -1,3 +1,4 @@
+fastcore==2.0.0
 fastai
 nbdev
 ipywidgets
