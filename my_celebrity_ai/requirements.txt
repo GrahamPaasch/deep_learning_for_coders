@@ -1,0 +1,10 @@
+fastcore==1.0.5
+fastai
+nbdev
+ipywidgets
+pandas
+matplotlib
+graphviz
+sklearn
+scipy
+voila
