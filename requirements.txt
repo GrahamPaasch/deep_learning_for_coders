@@ -8,3 +8,4 @@ graphviz
 sklearn
 scipy
 voila
+nbconvert==6.0.0
